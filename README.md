@@ -1,2 +1,2 @@
 # Patient-Drug-Type-Prediction
-💊Patient Drug Type Prediction  - Classification💊
+💊Patient Drug Type Prediction  - Classification Problem💊
